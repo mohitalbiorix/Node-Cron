@@ -1,0 +1,14 @@
+Install package
+1. npm i express
+2. npm i node-cron
+
+Note:
+
+* * * * * => minute, hour ,day(month), month, day(week),
+
+* => any value
+, => value list separator
+- => range of values
+/ => step values
+* * * * * * => every second
+* * * * * => every minute
